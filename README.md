@@ -4,7 +4,7 @@
 
 > 💡 Passionate about automation, AI, and creative coding — Creating, Automating, and Innovating every day.
 
-![Profile views](https://komarev.com/ghpvc/?username=prrabbhanjon&color=brightgreen&style=flat&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=prrabbhanjon&color=blue)
 
 ## 🚀 What I'm building
 

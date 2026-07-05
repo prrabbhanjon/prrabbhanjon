@@ -8,7 +8,7 @@
 
 ## 🚀 What I'm building
 
-I explore the intersection of **AI**, **Kubernetes**, and **open-source tooling** — turning complex infrastructure into simple one-command experiences.
+I explore the intersection of **AI**, **Kubernetes**, **Kubernetes**, and **System Design** **APIs**. **Content Writer** and **open-source tooling** — turning complex infrastructure into simple one-command experiences.
 
 > *"If you have to do it twice, automate it. If you have to explain it twice, document it."*
 

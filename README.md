@@ -2,13 +2,13 @@
 
 **Subject Matter Expert in Cloud** · United States of America 
 
-> 💡 Passionate about automation, AI, and creative coding — Creating, Automating, and Innovating every day.
+> 💡 Passionate about automation, AI, and creative coding — Creating, Automating,  **Kubernetes**, and **System Design** **APIs**. **Content Writer** & Innovating every day.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prrabbhanjon&color=blue)
 
 ## 🚀 What I'm building
 
-I explore the intersection of **AI**, **Kubernetes**, **Kubernetes**, and **System Design** **APIs**. **Content Writer** and **open-source tooling** — turning complex infrastructure into simple one-command experiences.
+I explore the intersection of **AI**, **Kubernetes**, and **open-source tooling** — turning complex infrastructure into simple one-command experiences.
 
 > *"If you have to do it twice, automate it. If you have to explain it twice, document it."*
 

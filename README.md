@@ -10,8 +10,8 @@
 
 I explore the intersection of **AI**, **Kubernetes**, and **open-source tooling** — turning complex infrastructure into simple one-command experiences.
  | Kubernetes & Container Architecture | AI/ML & NVIDIA GPU Infrastructure & DGX SPARK | OpenShift | Cloud & Telco Architect | CKA | 6× Red Hat Certified | ESXi Certified  | Validation & Observability
-> *"If you have to do it twice, automate it. If you have to explain it twice, document it."*
 observability stacks — Prometheus, Grafana, ELK/Elasticsearch, Kibana, Zabbix and OpenTelemetry collectors 
+> *"If you have to do it twice, automate it. If you have to explain it twice, document it."*
 ---
 
 ## 🤖 Featured Project — Headroom Telemetry GUI

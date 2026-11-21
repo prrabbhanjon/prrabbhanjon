@@ -1,6 +1,6 @@
 # Hi, I'm Prabhanjan S 👋 
 
-**Subject Matter Expert in Cloud** · United States of America 
+**Python for AI development** · United States of America 
 
 > 💡 Passionate about automation, AI, Python for AI development and creative coding — Creating, Automating,  **Kubernetes**, **Openstack**, Build Own Cloud and **System Design** **APIs**. **Content Writer** & Innovating every day.
 
